@@ -1,0 +1,14 @@
+#显示手持物品的关键字
+keyword: '[i]'
+
+#是否显示物品数量 true=显示 false=不显示
+showAmount: true
+
+#括号颜色 RGB格式
+sColor: '55FFFF'
+
+#物品数量 x 颜色 RGB格式 ([石头 x64]的x)
+xColor: 'FFAA00'
+
+#物品数量 数字颜色 RGB格式 ([石头 x64]的64)
+nColor: 'FFAA00'

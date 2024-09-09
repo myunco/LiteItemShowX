@@ -1,0 +1,16 @@
+name: LiteItemShowX
+main: net.myunco.liteitemshowx.LiteItemShowX
+version: '${version}'
+api-version: '1.20'
+author: unco_
+commands:
+  LiteItemShowX:
+    usage: '/LiteItemShowX <reload|version>'
+    aliases: [lis, lisx]
+    permission: LiteItemShowX.admin
+    permission-message: '§cYou don''t have permission!'
+permissions:
+  LiteItemShowX.admin:
+    default: op
+  LiteItemShowX.show:
+    default: true
