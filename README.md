@@ -10,7 +10,7 @@ bStats
 下载
 ---
 你可以在以下位置下载官方版本:
-- **Github**: https://github.com/myunco/LiteItemShow/releases
+- **Github**: https://github.com/myunco/LiteItemShowX/releases
 
 如何安装？
 ---
